@@ -33,10 +33,15 @@ pip install pandas
 Parameters:
 
 -- microbiota_names -- path to the file containing names of the .fasta files with microbial proteomes
+
 -- microbiota_path -- path to the directory with microbial proteomes
+
 -- epitopes -- path to the file with epitopes
+
 -- Hamming_distance -- Hamming distance for search
+
 -- results -- path to the file for the resulting table
+
 
 ## Example
 ```
