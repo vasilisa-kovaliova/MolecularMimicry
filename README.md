@@ -3,7 +3,7 @@ The algorithm of search for human T-cell epitopes in proteomes of microbiota
 
 ### Installation
 ```
-git clone https://github.com/vasilisa-kovaliova/combinatorial_peptide_pooling.git
+git clone https://github.com/vasilisa-kovaliova/MolecularMimicry.git
 ```
 
 ### Requirements
