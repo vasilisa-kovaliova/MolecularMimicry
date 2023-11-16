@@ -45,5 +45,5 @@ Parameters:
 
 ## Example
 ```
-python bacteria_proteome_scanner.py -microbiota_names microbiota_names.str -microbiota_path microbiota_proteomes/ -epitopes epitopes.txt -Hamming_distance 4 -results scanning_results.tsv
+python bacteria_proteome_scanner.py -microbiota_names microbiota_names.txt -microbiota_path microbiota_proteomes/ -epitopes epitopes.txt -Hamming_distance 4 -results scanning_results.tsv
 ```
